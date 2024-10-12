@@ -1,0 +1,3 @@
+[submodule "twelvelabs-cookbook"]
+	path = twelvelabs-cookbook
+	url = https://github.com/manish-tl/twelvelabs-cookbook.git
